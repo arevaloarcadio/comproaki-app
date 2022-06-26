@@ -3,6 +3,7 @@
     <div>
       <center><ion-label>Comproaki</ion-label></center>  
       <br/>
+
         <div class="not-mobile">
           <ion-input type="text"  v-model="email" placeholder="Ingrese el Usuario" />
           <ion-input type="password" v-model="password" placeholder="Ingrese la contraseña" />
